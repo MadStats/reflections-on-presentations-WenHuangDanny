@@ -49,13 +49,33 @@ What were aspects of the presentations for which you had concerns or questions: 
 
 
 
-Title of presentation: 
+Title of presentation: H1B
 
-What were aspects of the presentation that you liked:      
+What were aspects of the presentation that you liked: The data vidualization tends to be good, which helps to understand the struction of the population.
 
-What were aspects of the presentations for which you had concerns or questions:
-
-
+What were aspects of the presentations for which you had concerns or questions: Don't know how the cluster method works
 
 
+
+Title of presentation: car accident
+
+What were aspects of the presentation that you liked:    They analysis many aspects which cars accidents are related to . 
+
+What were aspects of the presentations for which you had concerns or questions: the cluster plot seems too fuzzy and doesn't include much information.
+
+
+Title of presentation: Songs
+What were aspects of the presentation that you liked:  They tro to use like emotion analysis to pick up key words from the raw data.
+
+What were aspects of the presentations for which you had concerns or questions:  The ppt is not expreesive and is too long.
+
+
+Title of presentation: NBA
+What were aspects of the presentation that you liked:   They give a brand new point of view to analyze who should be the MVP.
+What were aspects of the presentations for which you had concerns or questions: Can't see much data analysis methods.
+
+
+Title of presentation: terrorism
+What were aspects of the presentation that you liked:  The data transformation seems convincng
+What were aspects of the presentations for which you had concerns or questions: Ths data seems so messy 
 
